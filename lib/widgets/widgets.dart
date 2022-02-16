@@ -5,3 +5,4 @@ export 'tier_dashboard.dart';
 export 'responsive.dart';
 export 'icon_buttons.dart';
 export 'navmenu.dart';
+export 'syllabusbuttons.dart';
