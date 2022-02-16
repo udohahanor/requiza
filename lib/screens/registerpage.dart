@@ -20,7 +20,7 @@ class RegisterPage extends StatelessWidget {
               height: 300.0,
               color: Colors.transparent,
               child: const Text(
-                'You automatically join the Requiza Retirement Plan and \nbecome a memeber of the REQUIZA PRESIDENTIAL EXECUTIVE COUNCIL\n(PEC), sharing from 10% of global profit of the affiliate program \nalongside ${'100,000'} house bonus or cash equivalent.\nBegin today!',
+                'You automatically join the Requiza Retirement Plan and \nbecome a member of the REQUIZA PRESIDENTIAL EXECUTIVE COUNCIL\n(PEC), sharing from 10% of global profit of the affiliate program \nalongside ${'100,000'} house bonus or cash equivalent.\nBegin today!',
                 style: TextStyle(
                   color: Colors.white,
                   fontSize: 14.0,

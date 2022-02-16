@@ -10,7 +10,7 @@ class HomePage extends StatelessWidget {
       children: [
         Container(
           width: double.infinity,
-          height: 400.0,
+          height: 700.0,
           decoration: const BoxDecoration(
             color: Colors.blue,
             image: DecorationImage(
@@ -19,13 +19,13 @@ class HomePage extends StatelessWidget {
             ),
           ),
           child: Column(
-            mainAxisAlignment: MainAxisAlignment.start,
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: const [
               NavBar(),
               SizedBox(height: 40),
               SizedBox(
-                width: 300.0,
-                height: 100.0,
+                width: 500.0,
+                height: 300.0,
                 child: Image(
                   image: AssetImage('assets/images/title.png'),
                 ),
@@ -42,13 +42,13 @@ class HomePage extends StatelessWidget {
                 '& Enjoy The Extraordinary Lifestyle',
                 style: TextStyle(
                   color: Colors.white,
-                  fontSize: 15.0,
+                  fontSize: 20.0,
                 ),
               ),
               SizedBox(height: 10),
               SizedBox(
-                width: 100.0,
-                height: 50.0,
+                width: 150.0,
+                height: 100.0,
                 child: Image(
                   image: AssetImage('assets/buttons/start_button.png'),
                 ),
