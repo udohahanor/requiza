@@ -18,6 +18,7 @@ class LandingPage extends StatelessWidget {
           SizedBox(height: 10.0),
           AboutPage(),
           SizedBox(height: 10.0),
+          TestimoniesPage(),
           CurriculumPage(),
           SizedBox(height: 10.0),
           SyllabusPage(),

@@ -5,3 +5,4 @@ export 'curriculumpage.dart';
 export 'syllabuspage.dart';
 export 'registerpage.dart';
 export 'payoutpage.dart';
+export 'testimoniespage.dart';
